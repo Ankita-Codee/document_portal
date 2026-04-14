@@ -34,9 +34,8 @@ Similarly, **researchers** can compare policy drafts or technical reports to tra
 2. **Backend (FastAPI):** Handles file management, embeddings, and query logic  
 3. **RAG Engine:** Retrieves contextually relevant chunks from Pinecone  
 4. **LLM Layer (OpenAI):** Generates summaries, differences, and answers  
-5. **Image Generator (Azure AI Foundry):** Creates visual summaries or creative outputs  
-6. **Storage Layer:** Stores embeddings and processed data (Pinecone + AWS)  
-7. **CI/CD Pipeline:** Automated testing and deployment via GitHub Actions  
+5. **Storage Layer:** Stores embeddings and processed data (Pinecone + AWS)  
+6. **CI/CD Pipeline:** Automated testing and deployment via GitHub Actions  
 
 ---
 
@@ -56,9 +55,7 @@ Similarly, **researchers** can compare policy drafts or technical reports to tra
 🔹 Implement **authentication and role-based access control (RBAC)**  
 🔹 Add a **frontend dashboard (React + Bootstrap)** for visual interaction  
 🔹 Integrate **OCR and speech-to-text** for image and audio-based documents  
-🔹 Include **LangGraph orchestration** for multi-step document workflows  
-🔹 Add **version history and visual diff viewer**  
 
 ---
 
-## 🖼️ Example Output
+
